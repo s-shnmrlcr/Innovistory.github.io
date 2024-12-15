@@ -167,13 +167,6 @@ body {
   font-size: 2rem;
 }
 
-.nav-text {
-  display: block;
-  width: 70px;
-  height: 20px;
-  letter-spacing: 0;
-}
-
 .content {
   position: absolute;
   top: 0;
